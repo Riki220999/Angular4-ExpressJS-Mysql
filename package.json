@@ -44,7 +44,7 @@
     "@types/passport": "^0.3.4",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.2",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "core-js": "^2.5.1",
     "express": "^4.16.1",
     "express-sanitizer": "^1.0.2",
